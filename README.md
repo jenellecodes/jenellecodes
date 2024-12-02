@@ -4,7 +4,7 @@
 - 💞️ I’m collaborating on CreateHERFest 
 - 📫 How to reach me jenelledowner1@outlook.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I have played tennis for over 20 years!
+- ⚡ Fun fact: I have been playing tennis for over 20 years!
 
 <!---
 jenellecodes/jenellecodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

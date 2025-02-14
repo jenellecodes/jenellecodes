@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jenelle
 - 👀 I’m interested in Data Engineer
-- 🌱 I’m currently learning AR/VR 
+- 🌱 I’m currently participating in a 30 DevOp Challenge 
 - 💞️ I’m collaborating on CreateHERFest 
 - 📫 How to reach me jenelledowner1@outlook.com
 - 😄 Pronouns: she/her
